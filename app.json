@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Insta-Clone",
+    "name": "insta-clone",
     "slug": "insta-clone-app",
     "platforms": ["ios", "android", "web"],
     "version": "1.0.0",
